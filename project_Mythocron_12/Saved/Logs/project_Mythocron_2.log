@@ -1,12 +1,17 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 ﻿Log file open, 05/27/21 10:11:20
 =======
 ﻿Log file open, 05/27/21 10:11:11
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+﻿Log file open, 05/27/21 10:11:20
+>>>>>>> Stashed changes
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: project_Mythocron
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.213707
@@ -14,13 +19,20 @@ LogStats: Stats thread started at 0.213707
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.224722
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213707
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
@@ -68,6 +80,7 @@ LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin TcpMessaging
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
@@ -125,6 +138,8 @@ LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin SkeletalReduction
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -132,7 +147,10 @@ LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
@@ -151,6 +169,7 @@ LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin AudioSynesthesia
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin LauncherChunkInstaller
@@ -168,13 +187,18 @@ LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
@@ -205,6 +229,7 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
@@ -234,6 +259,8 @@ LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ConcertMain
 LogPluginManager: Mounting plugin MultiUserClient
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
@@ -241,15 +268,21 @@ LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin SQLiteCore
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ConcertSyncClient
 LogPluginManager: Mounting plugin ConcertSyncCore
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin ConcertSyncCore
 LogPluginManager: Mounting plugin ConcertSyncClient
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+>>>>>>> Stashed changes
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
@@ -276,21 +309,29 @@ LogInit: Build: ++UE4+Release-4.26-CL-15973114
 LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
 LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
 LogInit: Net CL: 14830424
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2060
 =======
 LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2080 SUPER
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2060
+>>>>>>> Stashed changes
 LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.26
 LogInit: Command Line: 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogInit: Base Directory: L:/UE_4.26/Engine/Binaries/Win64/
 =======
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+LogInit: Base Directory: L:/UE_4.26/Engine/Binaries/Win64/
+>>>>>>> Stashed changes
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 29
@@ -324,11 +365,15 @@ LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [L:/pogchamp/MYthocron_git/project_Mythocron_12/Saved/Config/Windows/Engine.ini]
 =======
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/callu/OneDrive - SK College Group/Desktop/Mythocron/project_Mythocron_12/Saved/Config/Windows/Engine.ini]
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [L:/pogchamp/MYthocron_git/project_Mythocron_12/Saved/Config/Windows/Engine.ini]
+>>>>>>> Stashed changes
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -346,7 +391,10 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 [2021.05.27-09.11.21:013][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.05.27-09.11.21:013][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.05.27-09.11.21:013][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [L:/pogchamp/MYthocron_git/project_Mythocron_12/Saved/Config/Windows/Engine.ini]
@@ -4108,6 +4156,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.27-10.47.27:125][889]LogWindows: FPlatformMisc::RequestExit(1)
 [2021.05.27-10.47.27:125][889]LogCore: Engine exit requested (reason: Win RequestExit)
 [2021.05.27-10.47.27:136][889]Log file closed, 05/27/21 11:47:27
+<<<<<<< Updated upstream
 =======
 [2021.05.27-09.11.12:391][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.05.27-09.11.12:391][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -6211,3 +6260,5 @@ Try to find the chain of references to that object (may take some time)?
 [2021.05.27-10.57.46:543][354]LogCore: Engine exit requested (reason: Win RequestExit)
 [2021.05.27-10.57.46:550][354]Log file closed, 05/27/21 11:57:46
 >>>>>>> 5df4e204db1aec3fa03898bdc8cb93936b22e4f8
+=======
+>>>>>>> Stashed changes
